@@ -1,6 +1,6 @@
 # SnapTikZ Pro - Tải video TikTok không logo miễn phí
 
-<img src="./public/images/image-1.png" alt="Ảnh minh họa công cụ SnapTikZ Pro" width="800" />
+<img src="./snap-tik-fe/public/images/image-1.png" alt="Ảnh minh họa công cụ SnapTikZ Pro" width="800" />
 
 ---
 
